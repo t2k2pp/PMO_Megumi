@@ -6,7 +6,7 @@
 ## 若手PMO期（2010年～2013年・26～29歳）
 **この時期のめぐみ：PMO業務の基礎を学び、個人の実力を磨く期間**
 
-### 1. [プロジェクト清流](https://github.com/t2k2pp/PMO_Megumi/blob/main/01_project_seiryu/README.md)
+### 1. [プロジェクト清流](https://github.com/t2k2pp/PMO_Megumi/blob/main/01_project_seiryu/README.md) ...全10話 執筆By Claude4.0 Sonnet(じっくり考える+Normal)
 - **年・年齢**: 2010年・26歳
 - **内容**: 地方銀行の勘定系システム刷新
 - **備考**: めぐみのPMO初任務
