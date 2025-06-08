@@ -1,8 +1,8 @@
 # めぐみのPMO プロジェクト清流
 
+- **音声概要**: [🗣️stand.fm🎧](https://stand.fm/episodes/6845a04e1a61bdbaaddf60b1)
 
  <img width="320" alt="表紙" src="https://github.com/t2k2pp/PMO_Megumi/blob/main/01_project_seiryu/プロジェクト清流.png">
-画像生成 by perplexity,GPT Image 1
 
 ### 1. プロジェクト清流（2010年・26歳・PMO初任務）
 - **[第1話「火の見櫓(ひのみやぐら)」](https://github.com/t2k2pp/PMO_Megumi/blob/main/01_project_seiryu/seiryu_episode_01.md)**
@@ -19,3 +19,5 @@
 
 
 ### [戻る](https://github.com/t2k2pp/PMO_Megumi)
+
+画像生成 by perplexity,GPT Image 1
