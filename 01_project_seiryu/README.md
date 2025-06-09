@@ -4,7 +4,7 @@
 
  <img width="320" alt="表紙" src="https://github.com/t2k2pp/PMO_Megumi/blob/main/01_project_seiryu/プロジェクト清流.png">
 
-### 1. プロジェクト清流（2010年・26歳・PMO初任務）
+### 1. プロジェクト清流（2010年・26歳・PMO初任務）...Claude4.0 Sonnet(じっくり考える+Normal)
 - **[第1話「火の見櫓(ひのみやぐら)」](https://github.com/t2k2pp/PMO_Megumi/blob/main/01_project_seiryu/seiryu_episode_01.md)**
 - **[第2話「現場の声」](https://github.com/t2k2pp/PMO_Megumi/blob/main/01_project_seiryu/seiryu_episode_02.md)**
 - **[第3話「根を辿る」](https://github.com/t2k2pp/PMO_Megumi/blob/main/01_project_seiryu/seiryu_episode_03.md)**
@@ -17,6 +17,9 @@
 - **[第10話「清らかな流れ」](https://github.com/t2k2pp/PMO_Megumi/blob/main/01_project_seiryu/seiryu_episode_10.md)**
 
 
+### 競作
+
+#### 1. [プロジェクト清流（2010年・26歳・PMO初任務）](https://github.com/t2k2pp/PMO_Megumi/blob/main/01_project_seiryu/Project%20Seiryu%20by%20Gemini.md)...Gemini 2.5 Pro Gem機能利用
 
 ### [戻る](https://github.com/t2k2pp/PMO_Megumi)
 
