@@ -5,16 +5,16 @@
  <img width="640" alt="表紙" src="https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/Project%20Hatsuyuki.jpg">
 
 ### 1. プロジェクト清流（2010年・26歳）...Claude4.0 Sonnet(じっくり考える+Normal)
-- **[第1話「初降り」](https://github.com/t2k2pp/PMO_Megumi/blob/main/01_project_seiryu/hatsuyuki_episode_01.md)**
-- **[第2話「薄氷を踏む」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_episode_02.md)**
-- **[第3話「吹雪の中」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_episode_03.md)**
-- **[第4話「足跡残し」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_episode_04.md)**
-- **[第5話「凍てつく関係」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_episode_05.md)**
-- **[第6話「雪解けの兆し」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_episode_06.md)**
-- **[第7話「再凍結」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_episode_07.md)**
-- **[第8話「春の訪れ」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_episode_08.md)**
-- **[第9話「雪どけ水」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_episode_09.md)**
-- **[第10話「青空へ」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_episode_10.md)**
+- **[第1話「初降り」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_ep01.md)**
+- **[第2話「薄氷を踏む」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_ep02.md)**
+- **[第3話「吹雪の中」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_ep03.md)**
+- **[第4話「足跡残し」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_ep04.md)**
+- **[第5話「凍てつく関係」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_ep05.md)**
+- **[第6話「雪解けの兆し」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_ep06.md)**
+- **[第7話「再凍結」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_ep07.md)**
+- **[第8話「春の訪れ」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_ep08.md)**
+- **[第9話「雪どけ水」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_ep09.md)**
+- **[第10話「青空へ」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_ep10.md)**
 
 
 ### 競作
