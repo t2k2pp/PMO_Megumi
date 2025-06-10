@@ -1,10 +1,10 @@
-# めぐみのPMO プロジェクト清流
+# めぐみのPMO プロジェクト初雪
 
 - **音声概要**: [🗣️stand.fm🎧](https://stand.fm/episodes/6848343c9dbd08626e3a3381)
 
  <img width="640" alt="表紙" src="https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/Project%20Hatsuyuki.jpg">
 
-### 1. プロジェクト清流（2010年・26歳）...Claude4.0 Sonnet(じっくり考える+Normal)
+### 1. プロジェクト初雪（2010年・26歳）...Claude4.0 Sonnet(じっくり考える+Normal)
 - **[第1話「初降り」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_ep01.md)**
 - **[第2話「薄氷を踏む」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_ep02.md)**
 - **[第3話「吹雪の中」](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/hatsuyuki_ep03.md)**
