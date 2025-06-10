@@ -2,7 +2,7 @@
 
 - **音声概要**: [🗣️stand.fm🎧](https://stand.fm/episodes/6845a04e1a61bdbaaddf60b1)
 
- <img width="320" alt="表紙" src="https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/Project%20Hatsuyuki.png">
+ <img width="640" alt="表紙" src="https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/Project%20Hatsuyuki.jpg">
 
 ### 1. プロジェクト清流（2010年・26歳）...Claude4.0 Sonnet(じっくり考える+Normal)
 - **[第1話「初降り」](https://github.com/t2k2pp/PMO_Megumi/blob/main/01_project_seiryu/hatsuyuki_episode_01.md)**
