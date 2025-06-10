@@ -19,7 +19,7 @@
 
 ### 競作
 
-#### 1. [プロジェクト初雪（2010年・26歳）](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/Project%20hatsuyuki%20by%20Gemini.md)...Gemini 2.5 Pro Gem機能利用
+#### 1. [プロジェクト初雪（2010年・26歳）](https://github.com/t2k2pp/PMO_Megumi/blob/main/02_project_hatsuyuki/Project%20Hatsuyuki%20by%20Gemini.md)...Gemini 2.5 Pro Gem機能利用
 
 ### [戻る](https://github.com/t2k2pp/PMO_Megumi)
 
